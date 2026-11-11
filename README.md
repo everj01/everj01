@@ -21,10 +21,6 @@
 
 ---
 
-### 🧩 Cómo trabajo
-
-Empecé escribiendo código cuando no había a quién preguntarle más que a la documentación. Hoy trabajo junto a agentes de IA, y eso me hace más rápido, no más dependiente.
-
 Las herramientas cambian; el criterio para usarlas se construye con los años.
 
 ---
